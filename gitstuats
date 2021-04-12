@@ -1,0 +1,29 @@
+[33mcommit 603a0f9f46f612afefee88b7555696d243e60458[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: unknown <drastic87@gmail.com>
+Date:   Thu Mar 18 18:47:32 2021 -0400
+
+    level 3 with Hashing paswords
+
+[33mcommit cfb6abf2c670c19a2ee574ee1630250c2dcda744[m
+Author: unknown <drastic87@gmail.com>
+Date:   Tue Mar 16 21:55:10 2021 -0400
+
+    Remove the now ignored directory node_modules
+
+[33mcommit 66b1f7c8d0f968bf352fea1accc9262ff55e9b29[m
+Author: unknown <drastic87@gmail.com>
+Date:   Tue Mar 16 21:51:21 2021 -0400
+
+    Stage 3 added enviorement vars
+
+[33mcommit 1809e598c95f8e95d1d52423efd2a2e989fa3cbe[m
+Author: unknown <drastic87@gmail.com>
+Date:   Tue Mar 16 21:12:42 2021 -0400
+
+    Stage 2 security using mongoose encrypt
+
+[33mcommit 632721a7e04135206fc5e2b122cdcfad73a4b287[m
+Author: unknown <drastic87@gmail.com>
+Date:   Tue Mar 16 20:19:45 2021 -0400
+
+    stage 1 security
